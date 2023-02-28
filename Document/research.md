@@ -24,6 +24,3 @@ The documentation is saved on the Github repository of the group project.
 | SOURCES | WHAT I LEARN ? |
 | :-: | :-: |
 | Exercism : https://exercism.org/tracks/fsharp | Learn to use the F# |
-| W3school : https://www.w3schools.com/html/default.asp | Learn the C and C++ |
-| Guide of the F# language : https://learn.microsoft.com/fr-fr/dotnet/fsharp/language-reference/ | Learn the F# vocabulary |
-| Stack Overflow : https://stackoverflow.com/ | How resolve the differents errors of the code |

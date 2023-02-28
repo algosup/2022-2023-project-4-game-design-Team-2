@@ -3,6 +3,7 @@
 ## Description
 
 We have to create a game with a genre, a universe and a story to choose from.
+Our game is a 3D open world in medieval times in which the Puss in Boots became an alley cat after its glory days. He was stripped of his hat, his sword but also of an object that was dear to him. After a few months, he decides to take revenge on those who took everything from him. He will have to go through the village looking for clues to find the place where his enemies are hiding, but he will have to build his little empire to increase his strength by finding allies to join his clan.
 
 ## Documents link
 
