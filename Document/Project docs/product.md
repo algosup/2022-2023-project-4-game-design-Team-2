@@ -1,0 +1,16 @@
+# Research notes
+### Market
+Thanks to the FABGen program and the work we do, Harfang 3D develops 3D solutions like simulations, Virtual Reality or 3D interraction.
+
+### Target audience/customer
+The product will be mainly used by developers, engineers and designers.
+
+---
+# Comparison table
+### Harfang 3D product
+
+| **NAME** | Trial | Individual | Professional |
+| :-: | :-: | :-: | :-: |
+| **PRICE** | 15 days access | free | 30€/month or 300€/year(-16%) |
+| **ALL FEATURES** | Yes | Yes | Yes |
+| **COMMECIAL USE** | No | No | Yes |

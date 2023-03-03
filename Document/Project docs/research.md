@@ -16,7 +16,7 @@ The team is organized with differents roles :
 
 ### documentation saving and sharing system
 ###### ​How do you save and share your documentation?
-The documentation is saved on the Github repository of the group project.
+The documentation is saved on the Github repository of the group project. The documentation is also shared by discord and google file with all team members.
 
 ---
 # Resources
