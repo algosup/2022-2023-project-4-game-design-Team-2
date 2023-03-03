@@ -10,6 +10,7 @@
 | [Elise GAUTIER](https://github.com/elisegtr) | Software Engineer |
 | [Florent HUREAUX](https://github.com/florenthureaux) | Quality Assurance |
 
+## Introduction
 ## Persona
 ![alt text](/Document/Functional/image/Persona1_1.png)
 ![alt text](/Document/Functional/image/Persona1_2.png)
@@ -18,7 +19,13 @@
 ![alt text](/Document/Functional/image/Persona3_1.png)
 ![alt text](/Document/Functional/image/Persona3_2.png)
 
+
 ## Quality
+
+#### Glossary
+|Word | Definition |
+| :-: | :-: |
+| | |
 
 ## Cost 
 
@@ -41,3 +48,5 @@
 ## Safety
 
 ## Environement
+
+## Resources
