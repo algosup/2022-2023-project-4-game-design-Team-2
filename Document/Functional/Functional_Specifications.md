@@ -19,3 +19,22 @@
 ![alt text](/Document/Functional/image/Persona3_2.png)
 
 ## Quality
+
+## Cost 
+
+## Deadlines
+|Project period|Content|deliverary date| Done?|
+|:---|:---:|:---:|:---:|---:|
+|Week 1|One Sheet Document| 03/03/2023| |
+|Week 2| Working Prototype|10/03/2023| |
+|Week 3||||
+|Week 4|Demo / Vertical Slice|24/03/2023||
+|Week 5||||
+|Weak 6|Final Game / Final Test |07/03/2023||
+
+
+
+
+## Safety
+
+## Environement
