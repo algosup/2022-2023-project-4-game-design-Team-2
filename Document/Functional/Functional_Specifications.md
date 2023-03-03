@@ -24,7 +24,7 @@
 
 ## Deadlines
 |Project period|Content|deliverary date| Done?|
-|:---|:---:|:---:|:---:|---:|
+|:-:|:-:|:-:|:-:|:-:|
 |Week 1|One Sheet Document| 03/03/2023| |
 |Week 2| Working Prototype|10/03/2023| |
 |Week 3||||
