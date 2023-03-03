@@ -19,8 +19,8 @@ We have to create a game with a genre, a universe and a story to choose from.
 - 1st week :
   - [x] define the game (genre, game mode, period...)
   - [x] find character and the story
-  - [ ] find assets
-  - [ ] writing the scenario
+  - [x] find assets
+  - [x] writing the scenario
 - 2nd week :
   - [ ] functional
   - [ ] technical
