@@ -21,6 +21,46 @@ The documentation is saved on the Github repository of the group project. The do
 ---
 # Resources
 
-| **SOURCES** | **WHAT I LEARN ?** |
-| :-: | :-: |
-| Exercism : https://exercism.org/tracks/fsharp | Learn to use the F# |
+### Gregory
+
+| **SOURCES** | **WHY** | **WHAT I LEARN ?** |
+| :-: | :-: | :-: |
+| https://free3d.com/fr/3d-models/montagne | Find differents assets for create mountain | Differents free assets in FBX with the ideal graphic mountain |
+|  |  |  |
+
+### Salaheddine
+
+| **SOURCES** | **WHY** | **WHAT I LEARN ?** |
+| :-: | :-: | :-: |
+| https://en.wikipedia.org/wiki/Puss_in_Boots | We are inspired by the story of Puss in Boots |  |
+|  |  |  |
+### Pierre
+
+| **SOURCES** | **WHY** | **WHAT I LEARN ?** |
+| :-: | :-: | :-: |
+| https://www.youtube.com/playlist?list=PLyGMb_oOCq-EaKTo0YZ9FXYkBsa_JJrrC | To learn the game mechanics for character mobility | Make the characters fight as well as walk, run, jump, climb, kill, etc, but also create a minimap |
+| https://quixel.com/megascans/home/ | Find differents assets | Texture, map and items assets |
+| https://sketchfab.com/3d-models/puss-in-boots-36ae3bcbb1f54c5a8db818a8dceefb5a | Texture assets for the main character |  |
+| https://www.mixamo.com/#/?page=1&query=&type=Character | Find some other characters | Peasant, bosses, archer, knight, etc |
+|  |  |  |
+
+### Elise
+
+| **SOURCES** | **WHY** | **WHAT I LEARN ?** |
+| :-: | :-: | :-: |
+| https://free3d.com/fr/3d-model/mountain-6839.html | Mountain |  |
+| https://www.unrealengine.com/marketplace/en-US/product/fantastic-village-pack | Village |  |
+| https://www.youtube.com/watch?v=u1LsfWzvOFk | Tutorial to make mountain landscape |  |
+| https://youtube.com/playlist?list=PLQjN2LmROiTijroyMLpg-GVxDD0wjH7Em | Tutorial to know the landscape creation tools |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+### Florent
+
+| **SOURCES** | **WHY** | **WHAT I LEARN ?** |
+| :-: | :-: | :-: |
+| https://www.youtube.com/watch?v=EY9A-JzPmBI&ab_channel=LooseConnection | To make sure our github is set up for Unreal Engine | Setting up the Github |
+| https://www.youtube.com/watch?v=a59Q6Rbunqk&ab_channel=3DPROG | To create a cinematic in Unreal engine | Different way to use camera in unreal engine |
+|  |  |  |
