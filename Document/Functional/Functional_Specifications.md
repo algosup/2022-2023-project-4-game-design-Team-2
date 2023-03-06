@@ -1,5 +1,7 @@
 # Functional Specifications
 
+## Document Version
+Last Update: 03/06/2023
 ## Team
 
 | Members | Rôle |
