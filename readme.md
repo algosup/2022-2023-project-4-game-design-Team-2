@@ -34,7 +34,7 @@ Thanks to creation tools like Unreal Engine v4.27 and Gimp, we have to create a 
 
 ### [**`Elise GAUTIER`**](https://github.com/elisegtr)
 
-##### *Program Manager*
+##### *Software Engineer*
 <br>
 <br>
 
