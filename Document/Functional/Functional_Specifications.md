@@ -38,12 +38,19 @@ During a period of 6 weeks, we must done:
 - Create a demo
 - Done the final game
 #### Use case
-| Use case | Stakeholder | Trigger | Pre/Post-condition | Main success scenario| Priority | Special Requirement | Note |
+| Use case | Actor(s) | Trigger | Pre/Post-condition | Main success scenario| Priority | Special Requirement | Note |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |||||||||
 
 #### Dependices
 #### Risk
+|Risk|impact| Probability|
+|:-:|:-:|:-:|
+|Technical Risks|Medium|Medium|
+|Scope Creep| Medium| Low|
+|Resource Constraints| Low| Low|
+|Team|Medium|Low|
+
 
 
 #### Glossary
