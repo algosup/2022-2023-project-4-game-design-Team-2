@@ -41,7 +41,20 @@ During a period of 7 weeks, we must done:
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:|  
 |Setting Menu| User| Click on "setting" in the title screen|None|Display all setting feature| Medium| None| Advance setting|
 
+#### Open issue
+|Issue ID| Issue| Raised By| Raised On| Solution/decision| Resolved By| Resolved On| Status |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|01|...|...|...|...|...|...|...|
+
+
+
+
+
+
+
+
 #### Dependices
+Unreal Engine V.4.27
 
 #### Risk
 
