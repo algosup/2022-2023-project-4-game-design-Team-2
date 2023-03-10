@@ -2,7 +2,7 @@
 
 ## Document Version
 
-Last Update: 03/06/2023
+Last Update: 03/10/2023
 
 ## Team
 
@@ -14,28 +14,18 @@ Last Update: 03/06/2023
 | [Elise GAUTIER](https://github.com/elisegtr) | Software Engineer |
 | [Florent HUREAUX](https://github.com/florenthureaux) | Quality Assurance |
 
-## Introduction
 
-Game design is a important part of IT project.
-Video game has an hight popularity in many case regardless of the age, and social level of the target people.
-During this project, ours has the goal to create a action adventure, like a 3D Zelda game, with a background inspire by 
-the Puss in Boots fairy tail that the player incarnate a cat which fights some foes and riddle to solve to progress and gets more skills until the end of the game.
+## Overview
+The player incarnates an alley cat which lost some object it had previously and wants to bring it back and take revenge against the responsible of this.
+The game is an open world, in which the player can do the main and side quests freely in a no linear way. The cat must bring back this hat and sword, learn new skills, face some enemies, bosses and complete a riddle to progress in the game.
 
-## Persona
 
-![alt text](/Document/Functional/image/Persona1_1.png)
-![alt text](/Document/Functional/image/Persona1_2.png)
-![alt text](/Document/Functional/image/Persona2_1.png)
-![alt text](/Document/Functional/image/Persona2_2.png)
-![alt text](/Document/Functional/image/Persona3_1.png)
-![alt text](/Document/Functional/image/Persona3_2.png)
+## Target
+This game is PEGI 7+.
 
 ## Quality
 
-#### Overview
 
-The player incarnate a alley cat which lost some object it had previously and want bring it back and take this revenge again the responsible of this.
-The game is an open world, in which the player can do the main and side quests freely in a no linear way. The cat must bring back this hat and sword, learn new skills, face some enemies, bosses and complite riddle to progress in the game.
 
 #### Goal
 
@@ -47,9 +37,9 @@ During a period of 7 weeks, we must done:
 
 #### Use case
 
-| Actor(s) | Trigger | Pre/Post-condition | Main success scenario| Priority | Special Requirement | Note |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-||||||||
+| Use case| Actor(s) | Trigger | Pre/Post-condition | Main success scenario| Priority | Special Requirement | Note |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:|  
+|Setting Menu| User| Click on "setting" in the title screen|None|Display all setting feature| Medium| None| Advance setting|
 
 #### Dependices
 
@@ -66,11 +56,13 @@ During a period of 7 weeks, we must done:
 
 | Word | Definition |
 | :-: | :-: |
-| | |
+|UI | User interface|
+|UX|User experience|
+
 
 ## Cost
 
-for the creation of our game, we only used free assets.
+For the creation of our game, we only used free assets.
 
 ## Deadlines
 
