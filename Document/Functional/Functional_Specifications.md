@@ -54,6 +54,7 @@ During a period of 7 weeks, we must done:
 |Option menu|User| Press escape|None|User access to the Option menu|Medium|None|User can used any option setting|
 |Double jump|User|Press space twice|None|Character perform midair jump|Hight|None|Character can access a specific part of the level with it, perform only once until the character touch any solid surface|
 |Dodge|User|Press Twice Right, D or Left Q, A|None|Character perform dodge movement on the right or on the left|Hight|None|Character can avoid some kind of attack of foes quickly, medium recovery time|
+|Save|User|Click on Save in option menu|Press escape / click on save|User can save this progress|Hight|none|Can save any time, restart at the nearest save point|
 
 
 
