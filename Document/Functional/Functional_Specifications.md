@@ -49,7 +49,7 @@ During a period of 7 weeks, we must done:
 |Claw attack|User|Left click on the mouse|Press 1 or up scroll whee/ Left click|Charater make claw attack |Hight|None| Attack by default weak but fast attack with short range, user can make combo attack depend of the timing it pressed left click successively, low recovery time |
 |Run|User|Press Shift| None| Charater run| Medium|None|Run still active until run command is release |
 |Interact| User|Press E| None|User can interact witn an element of the game|Hight|None|User point with the mouse whitch element it want to interact|
-|Hat attack|User|Left click|None|Press 3 or down scroll wheel/Left click|Medium|None|Throw an hat, hight recovery time |
+|Hat attack|User|Left click|Press 3 or down scroll wheel/Left click|Character throw an hat at long range|Medium|None|Throw an hat, hight recovery time |
 |Second attack (kick)|User|Right click|None| Character perform a kick|Medium|None|Gap close move, knock back foes to a short range away of the character, hight recovery time|
 |Option menu|User| Press escape|None|User access to the Option menu|Medium|None|User can used any option setting|
 |Double jump|User|Press space twice|None|Character perform midair jump|Hight|None|Character can access a specific part of the level with it|
