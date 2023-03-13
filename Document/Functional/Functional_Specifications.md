@@ -44,7 +44,7 @@ During a period of 7 weeks, we must done:
 |Setting Menu| User| Click on "setting" in the title screen|None|Display all setting feature| Medium| None| Advance setting|
 |Minimap|User|In game| None|Minimap display  |Medium| Nope | User can extand the minimap| 
 |Move Foward, Back, straft Right and Left|User|Press Up, Down, Right and Left  or ZSDQ or WSDA on keyboard  |None|Charater move or straft on expected way|Hight|None|User can keybind in setting menu|
-|Jump|User| Space bar| None|Charater Jump|Hight|None|User can keybind in setting menu |
+|Jump|User| Press space | None|Charater Jump|Hight|None|User can keybind in setting menu |
 |Sword attack|User| Left click on the mouse  |Press 2 or middle scroll wheel/ Left click|Character make sword attack|Hight|None|Wield sword with more powerful attack with better range but slightly slower speed attack, user can make combo attack depend of the timing it pressed  left click successively, medium recovery time |
 |Claw attack|User|Left click on the mouse|Press 1 or up scroll whee/ Left click|Charater make claw attack |Hight|None| Attack by default weak but fast attack with short range, user can make combo attack depend of the timing it pressed left click successively, low recovery time |
 |Run|User|Press Shift| None| Charater run| Medium|None|Run still active until run command is release |
@@ -54,6 +54,7 @@ During a period of 7 weeks, we must done:
 |Option menu|User| Press escape|None|User access to the Option menu|Medium|None|User can used any option setting|
 |Double jump|User|Press space twice|None|Character perform midair jump|Hight|None|Character can access a specific part of the level with it, perform only once until the character touch any solid surface|
 |Dodge|User|Press Twice Right, D or Left Q, A|None|Character perform dodge movement on the right or on the left|Hight|None|Character can avoid some kind of attack of foes quickly, medium recovery time|
+
 
 
 
