@@ -40,11 +40,13 @@ During a period of 7 weeks, we must done:
 | Use case| Actor(s) | Trigger | Pre/Post-condition | Main success scenario| Priority | Special Requirement | Note |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:|  
 |Setting Menu| User| Click on "setting" in the title screen|None|Display all setting feature| Medium| None| Advance setting|
+|Minimap|User|In game| None|Minimap display  |Medium| Nope | User can extand the minimap| 
+|Move Foward, Back, Right and Left|User|Press Up, Down, Right and Left  or ZSDQ or WSDA on keyboard  |None|Charater move on expected way|Hight|None|User can keybind in setting menu|
+|Jump|User| Space bar| None|Charater Jump|Hight|None|User can keybind in setting menu |
+|Sword attack|User|||||||
+|Claw attck|User|||||
 
-#### Open issue
-|Issue ID| Issue| Raised By| Raised On| Solution/decision| Resolved By| Resolved On| Status |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|01|...|...|...|...|...|...|...|
+
 
 
 
@@ -82,7 +84,7 @@ For the creation of our game, we only used free assets.
 | Project period | Content | Deliverary date | Done?|
 | :-: | :-: | :-: | :-: |
 |Week 1|[One Sheet Document](https://docs.google.com/document/d/1iRBUVD85ZWckOgvGBmtcu_85enL-P66Imu4cllDIVU4/edit)| 03/03/2023|Yes |
-|Week 2| Working Prototype|10/03/2023| |
+|Week 2| Working Prototype|10/03/2023|Yes |
 |Week 3||||
 |Week 4|Demo / Vertical Slice|24/03/2023||
 |Week 5||||
