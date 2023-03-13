@@ -2,7 +2,7 @@
 
 ## Document Version
 
-Last Update: 03/10/2023
+Last Update: 03/13/2023
 
 ## Team
 
@@ -21,7 +21,9 @@ The game is an open world, in which the player can do the main and side quests f
 
 
 ## Target
-This game is PEGI 7+.
+This game is PEGI 7+, he's basically for everyone, he doesn't contain any  explicite content.
+It's an mediaeval action adventure where the protagonist defeated some enemies with family friendly animation.
+
 
 ## Quality
 
