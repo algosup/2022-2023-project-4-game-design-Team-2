@@ -43,10 +43,15 @@ During a period of 7 weeks, we must done:
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:|  
 |Setting Menu| User| Click on "setting" in the title screen|None|Display all setting feature| Medium| None| Advance setting|
 |Minimap|User|In game| None|Minimap display  |Medium| Nope | User can extand the minimap| 
-|Move Foward, Back, Right and Left|User|Press Up, Down, Right and Left  or ZSDQ or WSDA on keyboard  |None|Charater move on expected way|Hight|None|User can keybind in setting menu|
+|Move Foward, Back, straft Right and Left|User|Press Up, Down, Right and Left  or ZSDQ or WSDA on keyboard  |None|Charater move or straft on expected way|Hight|None|User can keybind in setting menu|
 |Jump|User| Space bar| None|Charater Jump|Hight|None|User can keybind in setting menu |
 |Sword attack|User| Left click on the mouse  |Press 2 or middle scroll wheel/ Left click|Character make sword attack|Hight|None|Wield sword with more powerful attack with better range but slightly slower speed attack, user can make combo attack depend of the timing it pressed  left click successively |
 |Claw attack|User|Left click on the mouse|Press 1 or up scroll whee/ Left click|Charater make claw attack |Hight|None| Attack by default weak but fast attack with short range, user can make combo attack depend of the timing it pressed left click successively |
+|Run|User|Press Shift| None| Charater run| Medium|None|Run still active until run command is release |
+|Interact| User|Press E| None|User can interact witn an element of the game|Hight|None|User point with the mouse whitch element it want to interact|
+|Hat attack|User|Left click|None|Press 3 or down scroll wheel/Left click|Medium|None|Throw an hat |
+
+
 
 
 
