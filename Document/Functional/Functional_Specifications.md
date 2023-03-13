@@ -45,8 +45,8 @@ During a period of 7 weeks, we must done:
 |Minimap|User|In game| None|Minimap display  |Medium| Nope | User can extand the minimap| 
 |Move Foward, Back, Right and Left|User|Press Up, Down, Right and Left  or ZSDQ or WSDA on keyboard  |None|Charater move on expected way|Hight|None|User can keybind in setting menu|
 |Jump|User| Space bar| None|Charater Jump|Hight|None|User can keybind in setting menu |
-|Sword attack|User|||||||
-|Claw attck|User|||||
+|Sword attack|User| Right click on the mouse  |Press 2 or middle scroll wheel/ right click|Character make sword attack|Hight|None|Wield sword with more powerful attack with better range but slightly slower speed attack, user can make combo attack depend of the timing it pressed click right successively |
+|Claw attack|User|Right click on the mouse|Press 1 or up scroll whee/ right click|Charater make claw attack |Hight|None| Attack by default weak but fast attack with short range, user can make combo attack depend of the timing it pressed right click successively |
 
 
 
