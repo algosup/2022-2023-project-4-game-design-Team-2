@@ -45,11 +45,16 @@ During a period of 7 weeks, we must done:
 |Minimap|User|In game| None|Minimap display  |Medium| Nope | User can extand the minimap| 
 |Move Foward, Back, straft Right and Left|User|Press Up, Down, Right and Left  or ZSDQ or WSDA on keyboard  |None|Charater move or straft on expected way|Hight|None|User can keybind in setting menu|
 |Jump|User| Space bar| None|Charater Jump|Hight|None|User can keybind in setting menu |
-|Sword attack|User| Left click on the mouse  |Press 2 or middle scroll wheel/ Left click|Character make sword attack|Hight|None|Wield sword with more powerful attack with better range but slightly slower speed attack, user can make combo attack depend of the timing it pressed  left click successively |
-|Claw attack|User|Left click on the mouse|Press 1 or up scroll whee/ Left click|Charater make claw attack |Hight|None| Attack by default weak but fast attack with short range, user can make combo attack depend of the timing it pressed left click successively |
+|Sword attack|User| Left click on the mouse  |Press 2 or middle scroll wheel/ Left click|Character make sword attack|Hight|None|Wield sword with more powerful attack with better range but slightly slower speed attack, user can make combo attack depend of the timing it pressed  left click successively, medium recovery time |
+|Claw attack|User|Left click on the mouse|Press 1 or up scroll whee/ Left click|Charater make claw attack |Hight|None| Attack by default weak but fast attack with short range, user can make combo attack depend of the timing it pressed left click successively, low recovery time |
 |Run|User|Press Shift| None| Charater run| Medium|None|Run still active until run command is release |
 |Interact| User|Press E| None|User can interact witn an element of the game|Hight|None|User point with the mouse whitch element it want to interact|
-|Hat attack|User|Left click|None|Press 3 or down scroll wheel/Left click|Medium|None|Throw an hat |
+|Hat attack|User|Left click|None|Press 3 or down scroll wheel/Left click|Medium|None|Throw an hat, hight recovery time |
+|Second attack (kick)|User|Right click|None| Character perform a kick|Medium|None|Gap close move, knock back foes to a short range away of the character, hight recovery time|
+|Option menu|User| Press escape|None|User access to the Option menu|Medium|None|User can used any option setting|
+|Double jump|User|Press space twice|None|Character perform midair jump|Hight|None|Character can access a specific part of the level with it|
+|Dodge|User|Press Twice Right, D or Left Q, A|None|Character perform dodge movement on the right or on the left|Hight|None|Character can avoid some kind of attack of foes quickly|
+
 
 
 
