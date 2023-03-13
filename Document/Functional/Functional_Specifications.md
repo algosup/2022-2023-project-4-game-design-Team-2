@@ -85,6 +85,7 @@ Unreal Engine V.4.27
 | :-: | :-: |
 |UI | User interface|
 |UX|User experience|
+|Recovery time|Period where the player can't use the same action during a certain amont of time|
 
 
 ## Cost
