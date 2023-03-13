@@ -52,8 +52,8 @@ During a period of 7 weeks, we must done:
 |Hat attack|User|Left click|Press 3 or down scroll wheel/Left click|Character throw an hat at long range|Medium|None|Throw an hat, hight recovery time |
 |Second attack (kick)|User|Right click|None| Character perform a kick|Medium|None|Gap close move, knock back foes to a short range away of the character, hight recovery time|
 |Option menu|User| Press escape|None|User access to the Option menu|Medium|None|User can used any option setting|
-|Double jump|User|Press space twice|None|Character perform midair jump|Hight|None|Character can access a specific part of the level with it|
-|Dodge|User|Press Twice Right, D or Left Q, A|None|Character perform dodge movement on the right or on the left|Hight|None|Character can avoid some kind of attack of foes quickly|
+|Double jump|User|Press space twice|None|Character perform midair jump|Hight|None|Character can access a specific part of the level with it, perform only once until the character touch any solid surface|
+|Dodge|User|Press Twice Right, D or Left Q, A|None|Character perform dodge movement on the right or on the left|Hight|None|Character can avoid some kind of attack of foes quickly, medium recovery time|
 
 
 
