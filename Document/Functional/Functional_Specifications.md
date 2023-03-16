@@ -122,7 +122,10 @@ For the creation of our game, we only used free assets.
 |Weak 6|Final Game / Final Test |07/03/2023||
 
 ## Safety
-
+All sites used for our research were secure and no user data is required to play. The only data saved and used is the game data to save/load the player's game
 ## Environment
+Unreal Engine V.4.27
+MacOS
+Windows
 
 ## Resources
