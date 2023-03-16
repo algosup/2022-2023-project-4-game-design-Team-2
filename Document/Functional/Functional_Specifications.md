@@ -53,6 +53,7 @@ During a period of 7 weeks, we must done:
 |Jump|User| Press space | None|Charater Jump|Hight|None|User can keybind in setting menu |
 |Sword attack|User| Left click on the mouse  |Press 2 or middle scroll wheel/ Left click|Character make sword attack|Hight|None|Wield sword with more powerful attack with better range but slightly slower speed attack, user can make combo attack depend of the timing it pressed  left click successively, medium recovery time |
 |Claw attack|User|Left click on the mouse|Press 1 or up scroll whee/ Left click|Charater make claw attack |Hight|None| Attack by default weak but fast attack with short range, user can make combo attack depend of the timing it pressed left click successively, low recovery time |
+|Slot|User|On the HUD|User select a weapon/ icon of selected weapon is bold |User see an icon in bold on which weapon is selected|Medium|None|Slot gain new icone depend of the progression|
 |Run|User|Press Shift| None| Charater run| Medium|None|Run still active until run command is release |
 |Interact| User|Press E| None|User can interact witn an element of the game|Hight|None|User point with the mouse whitch element it want to interact|
 |Hat attack|User|Left click|Press 3 or down scroll wheel/Left click|Character throw an hat at long range|Medium|None|Throw an hat, hight recovery time |
@@ -63,7 +64,7 @@ During a period of 7 weeks, we must done:
 |Save|User|Click on Save in Pause menu|Press escape / click on Save|User can save this progress|Hight|None|Can save any time, restart at the nearest save point|
 |Parameters(in Pause menu)|User|Click on Parameters in Pause menu|Press escape/ click on Parameters|User access to Parameters option|Hight|None|Access to sound and commands option|
 |Sound(in Pause menu)|User|Click on Sound in Parameters(in Pause menu)|Press escape/click on Parameters -> Sound|User can change Sound option|Hight|None|User can change sound (sound effect, background)|
-|Commands(in Pause menu)|User|Click on Commands in Parameters|Press escape/click on Parameters -> Commands|User access to Commands option|Hight|None|User can change this commands|
+|Commands(in Pause menu)|User|Click on Commands in Parameters|Press escape/click on Parameters -> Commands|User access to Commands option|Hight|None|User can change this commands, can also access to the view of controls on a plan|
 |Quit(in Pause menu)|User|Click on Quit in Pause menu|Press Escape/ Click on Quit|User has access to Quit,Stay and Return to title screen|Hight|None|User can Quit the game, return to title screen  or stay in the game|
 |Money Overlay|User|On the HUD|None|Money Overlay is displayed on HUD|Hight|None|None|
 |Semi-Circular Bars|User|On the HUD|None|Semi-Circular Bars display Heath Point and Stamina Point on separate bars|Hight|None|None|
