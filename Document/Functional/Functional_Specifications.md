@@ -46,6 +46,7 @@ During a period of 7 weeks, we must done:
 |Sounds (in Title screen)|User|Click on Sounds in Parametres|Click on Parameters/ Click on Sounds|User can change Sounds option|Hight|None|User can change sound (sound effect, background)|
 |Commands (in Title screen)|User|Click on Commands in Parameters|Click on Parameters/ Click on Commands|User can change the Commands and also has a sheet cheat of the command|Hight|None|None|
 |Minimap|User|On the HUD| None|Minimap display  |Medium| None | None|
+|Quit(in Title screen)|User|Click on Quit|None|the user choose between quit or stay|Hight|None|None|
 |Map|User|Press M|None|Display a bigger Map|Hight|None|None|
 |Tags|User|Put a tags on the map and minimap|Press M / Right click to put the tags|User can put tags on the Map|Hight|None|User can put many tags at the same time and can remove the tags with right click again on the tags and an arrow is display on the minimap to guide the user to the location|
 |Move Foward, Back, strafe Right and Left|User|Press Up, Down, Right and Left  or ZSDQ or WSDA on keyboard  |None|Charater move or strafe on expected way|Hight|None|User can keybind in setting menu|
