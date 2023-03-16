@@ -79,17 +79,26 @@ Thanks to creation tools like Unreal Engine v4.27 and Gimp, we have to create a 
   - [x] find assets
   - [x] writing the scenario
 - 2nd week :
-  - [ ] functional
-  - [ ] technical
-  - [ ] develop characters
-  - [ ] develop the environment/universe
-  - [ ] test/verification characters and environment/universe
+  - [x] functional V.1
+  - [x] technical V.1
+  - [x] begin to develop characters
+  - [x] begin to develop the environment/universe
 - 3rd week :
-  - [ ] .
+  - [ ] functional V.2
+  - [ ] technical V.2
+  - [ ] update characters
+  - [ ] update environment/universe
+  - [ ] begin to implement sound
 - 4th week :
+  - [ ] finish to implement sound
   - [ ] .
+  - [ ] test/verification characters, environment/universe, sound
 - 5th week :
   - [ ] test plan
   - [ ] .
 - 6th week :
   - [ ] .
+- 7th week :
+  - [ ] finish to test
+  - [ ] finish to correct the bug/error
+  - [ ] prepare the presentation
