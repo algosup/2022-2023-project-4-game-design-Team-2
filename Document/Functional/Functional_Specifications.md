@@ -122,7 +122,7 @@ For the creation of our game, we only used free assets.
 |Week 3|Meeting report 1|17/03/2023||
 |Week 4|Demo / Vertical Slice|24/03/2023||
 |Week 5||||
-|Weak 6|Final Game / Final Test |07/03/2023||
+|Weak 6|Final Game / Final Test |07/04/2023||
 
 ## Safety
  All sites used for our research were secure and no user data is required to play. The only data saved and used is the game data to save/load the player's game.
