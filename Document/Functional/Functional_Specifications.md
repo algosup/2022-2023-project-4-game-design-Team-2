@@ -68,9 +68,9 @@ During a period of 7 weeks, we must done:
 |Commands(in Pause menu)|User|Click on Commands in Parameters|Press escape/click on Parameters -> Commands|User access to Commands option|Hight|None|User can change this commands, can also access to the view of controls on a plan|
 |Graphics(in Pause menu)|User|Click on Graphics in Parameters|Press escape -> click on Parameters / click on Graphics|User access to Graphics setting|Hight|None|User can modify texture quality, Size of the screen, resolution, frame rate, shadow quality,view distance, post-processing, anti-aliasing|
 |Quit(in Pause menu)|User|Click on Quit in Pause menu|Press Escape/ Click on Quit|User has access to Quit,Stay and Return to title screen|Hight|None|User can Quit the game, return to title screen  or stay in the game|
-
 |Money Overlay|User|On the HUD|None|Money Overlay is displayed on HUD|Hight|None|None|
 |Semi-Circular Bars|User|On the HUD|None|Semi-Circular Bars display Heath Point and Stamina Point on separate bars|Hight|None|None|
+
 
 
 
