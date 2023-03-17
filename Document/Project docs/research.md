@@ -1,11 +1,17 @@
 # State your goals
+
 We have to create a game with a genre, a universe and a story to choose from. For this, we will need to install Unreal v4.27.2 via Epic Game and Gimp.
 
 ---
+
 # Roadmap
+
 ## Organization
+
 ### Team work
+
 ###### How is the team organized to work together?
+
 The team is organized with differents roles :
 
 - Grégory Pagnoux is **Project Manager** : he must **organize the planning**, **give tasks** and **follow the progress** of the project.
@@ -15,10 +21,13 @@ The team is organized with differents roles :
 - Florent Hureaux is **Quality Assurance** : he must **write the test** to testing the program of the SoftWare Engineer and he must **write the Test Plan** for keep each bug and error of the program.
 
 ### documentation saving and sharing system
+
 ###### ​How do you save and share your documentation?
+
 The documentation is saved on the Github repository of the group project. The documentation is also shared by discord, google file and PDF with all team members.
 
 ---
+
 # Resources
 
 ### Gregory
@@ -28,7 +37,7 @@ The documentation is saved on the Github repository of the group project. The do
 | https://free3d.com/fr/3d-models/montagne | Find differents assets for create mountain | Differents free assets in FBX with the ideal graphic mountain |
 | https://unrealengine.com/marketplace/en-US/store | Find texture assets | sand, rock, water |
 | https://unrealengine.com/marketplace/en-US/assets?count=20&keywords=sound&priceRange=%5B0%2C0%5D&sortBy=relevancy&sortDir=DESC&start=0 | Find sound | ambiant sound |
- https://www.auboutdufil.com/ | Find sound | general musique |
+| https://universal-soundbank.com/ | Find sound | all sounds |
 
 ### Salaheddine
 
