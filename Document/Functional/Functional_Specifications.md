@@ -119,7 +119,7 @@ For the creation of our game, we only used free assets.
 | :-: | :-: | :-: | :-: |
 |Week 1|[One Sheet Document](https://docs.google.com/document/d/1iRBUVD85ZWckOgvGBmtcu_85enL-P66Imu4cllDIVU4/edit)| 03/03/2023|Yes |
 |Week 2| Working Prototype|10/03/2023|Yes |
-|Week 3|Meeting report 1|17/03/2023||
+|Week 3|[Meeting report 1](https://docs.google.com/document/d/1DWlmcnsNr--_mH-CPWppFA1Ne_A28M-4eIGVfSqpdTE/edit?usp=sharing)|17/03/2023|Yes|
 |Week 4|Demo / Vertical Slice|24/03/2023||
 |Week 5||||
 |Weak 6|Final Game / Final Test |07/04/2023||
