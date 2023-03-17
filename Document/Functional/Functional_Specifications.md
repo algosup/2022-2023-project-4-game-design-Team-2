@@ -45,6 +45,7 @@ During a period of 7 weeks, we must done:
 |Parameters(in Title menu)| User| Click on Parameters in the title screen|None|Display Commands and sound setting | Medium| None| Advance setting|
 |Sounds (in Title screen)|User|Click on Sounds in Parametres|Click on Parameters/ Click on Sounds|User can change Sounds option|Hight|None|User can change sound (sound effect, background)|
 |Commands (in Title screen)|User|Click on Commands in Parameters|Click on Parameters/ Click on Commands|User can change the Commands and also has a sheet cheat of the command|Hight|None|None|
+|Graphics(in Title menu)|User|Click on Graphics in Parameters| click on Parameters / click on Graphics|User access to Graphics setting|Hight|None|User can modify texture quality, Size of the screen, resolution, frame rate, shadow quality,view distance, post-processing, anti-aliasing|
 |Minimap|User|On the HUD| None|Minimap display  |Medium| None | None|
 |Quit(in Title screen)|User|Click on Quit|None|the user choose between quit or stay|Hight|None|None|
 |Map|User|Press M|None|Display a bigger Map|Hight|None|None|
