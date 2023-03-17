@@ -108,6 +108,7 @@ Unreal Engine V.4.27
 |UX|User experience|
 |Recovery time|Period where the player can't use the same action during a certain amont of time|
 |HUD|heads-up display|
+|Asset| Any component, model, process or framework of value that can be leveraged or reused|
 
 
 ## Cost
