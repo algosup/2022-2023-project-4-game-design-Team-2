@@ -2,7 +2,7 @@
 
 ## Document Version
 
-Last Update: 03/17/2023
+Last Update: 03/20/2023
 
 ## Team
 
@@ -109,6 +109,7 @@ Unreal Engine V.4.27
 |Recovery time|Period where the player can't use the same action during a certain amont of time|
 |HUD|heads-up display|
 |Asset| Any component, model, process or framework of value that can be leveraged or reused|
+|Sound effect|Added sound which used for the sound design (an action is done, foes approach, money is speading...) Any sound beside the music|
 
 
 ## Cost
