@@ -96,7 +96,7 @@ Unreal Engine V.4.27
 |Risk|impact | Probability |
 |:-:|:-:|:-:|
 |Technical Risks |Medium |Medium |
-|Scope Creep |  | Medium/High |
+|Scope Creep | High | Medium/High |
 |Resource Constraints | Low | Low |
 |Team |Medium |Low |
 
