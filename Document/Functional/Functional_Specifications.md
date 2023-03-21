@@ -21,7 +21,7 @@ The game is an open world, in which the player can do the main and side quests f
 
 
 ## Target
-This game is PEGI 7+, it contain some fighting phase of gameplay, with non-detailed violence. 
+This game is PEGI 7+, it contains some fighting phase of gameplay, with non-detailed violence. 
 
 
 ## Quality
