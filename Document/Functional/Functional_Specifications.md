@@ -67,7 +67,7 @@ During a period of 7 weeks, we must done:
 |Sound(in Pause menu)|User|Click on Sound in Parameters(in Pause menu)|Press escape/Click on Parameters -> Sound|User can change Sound option|High|None|User can change sound (sound effect, background)|![image](/Document/Functional/image/sound%20pause.png) |
 |Commands(in Pause menu)|User|Click on Commands in Parameters|Press escape/Click on Parameters -> Commands|User access to Commands option|High|None|User can change this commands, can also access to the view of controls on a plan|![image](/Document/Functional/image/controle%20pause.png) |
 |Graphics(in Pause menu)|User|Click on Graphics in Parameters|Press escape -> Click on Parameters / Click on Graphics|User access to Graphics setting|High|None|User can modify texture quality, Size of the screen, resolution, frame rate, shadow quality,view distance, post-processing, anti-aliasing|X|
-|Quit(in Pause menu)|User|Click on Quit in Pause menu|Press Escape/ Click on Quit|User has access to Quit,Stay and Return to title screen|High|None|User can Quit the game, return to title screen  or stay in the game|X|
+|Quit(in Pause menu)|User|Click on Quit in Pause menu|Press Escape/ Click on Quit|User has accessed to Quit,Stay and Return to title screen|High|None|User can Quit the game, return to title screen  or stay in the game|X|
 |Money Overlay|User|On the HUD|None|Money Overlay is displayed on HUD|High|None|None|![image](/Document/Functional/image/money%20overlay.png) |
 |Semi-Circular Bars|User|On the HUD|None|Semi-Circular Bars display Heath Point and Stamina Point on separate bars|High|None|None|X|
 
