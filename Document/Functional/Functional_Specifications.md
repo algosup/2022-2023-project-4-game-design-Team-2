@@ -40,11 +40,11 @@ During a period of 7 weeks, we must done:
 
 | Use case| Actor(s) | Trigger | Pre/Post-condition | Main success scenario| Priority | Special Requirement | Note |Overview|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-:|
-|Title screen|User |Open the game or select Return to Title screen in Quit option in the game|if the user is in the game -> Press escape/click on Quit -> Return to Title screen|User is in the title screen|High|None|None| ![image](/Document/Functional/image/title%20screen.png) |
-|Parameters(in Title menu)| User| Click on Parameters in the title screen|None|Display Commands and sound setting | Medium| None| Advance setting|![image](/Document/Functional/image/setting.png) |
+|Title screen|User |Open the game or select Return to Title screen in Quit option in the game|if the user is in the game -> Press escape/Click on Quit -> Return to Title screen|User is in the title screen|High|None|None| ![image](/Document/Functional/image/title%20screen.png) |
+|Parameters (in Title menu)| User| Click on Parameters in the title screen|None|Display Commands and sound setting | Medium| None| Advance setting|![image](/Document/Functional/image/setting.png) |
 |Sounds (in Title screen)|User|Click on Sounds in Parametres|Click on Parameters/ Click on Sounds|User can change Sounds option|High|None|User can change sound (sound effect, background)|![image](/Document/Functional/image/sound.png) |
 |Commands (in Title screen)|User|Click on Commands in Parameters|Click on Parameters/ Click on Commands|User can change the Commands and also has a sheet cheat of the command|High|None|None|![image](/Document/Functional/image/controle.png) |
-|Graphics(in Title menu)|User|Click on Graphics in Parameters| click on Parameters / click on Graphics|User access to Graphics setting|High|None|User can modify texture quality, Size of the screen, resolution, frame rate, shadow quality,view distance, post-processing, anti-aliasing|![image](/Document/Functional/image/graphic.png) |
+|Graphics (in Title menu)|User|Click on Graphics in Parameters| Click on Parameters / Click on Graphics|User access to Graphics setting|High|None|User can modify texture quality, Size of the screen, resolution, frame rate, shadow quality,view distance, post-processing, anti-aliasing|![image](/Document/Functional/image/graphic.png) |
 |Credit|User|Click on Credit in the Title screen|None|User access to the credit|Medium|None|None|X|
 |Minimap|User|On the HUD| None|Minimap display  |Medium| None | None|![image](/Document/Functional/image/minimap.png) |
 |Quit(in Title screen)|User|Click on Quit|None|the user choose between quit or stay|High|None|None|X|
@@ -62,11 +62,11 @@ During a period of 7 weeks, we must done:
 |Pause menu|User| Press escape|None|User access to the Option menu|Medium|None|User can access to Save, Parameters and Quit option|![image](/Document/Functional/image/pause.png) |
 |Double jump|User|Press space twice|None|Character perform midair jump|High|None|Character can access a specific part of the level with it, perform only once until the character touch any solid surface|X|
 |Dodge|User|Press Twice Right, D or Left Q, A|None|Character perform dodge movement on the right or on the left|High|None|Character can avoid some kind of attack of foes quickly, medium recovery time|X|
-|Save|User|Click on Save in Pause menu|Press escape / click on Save|User can save this progress|High|None|Can save any time, restart at the nearest save point|X|
-|Parameters(in Pause menu)|User|Click on Parameters in Pause menu|Press escape/ click on Parameters|User access to Parameters option|High|None|Access to sound and commands option|X|
-|Sound(in Pause menu)|User|Click on Sound in Parameters(in Pause menu)|Press escape/click on Parameters -> Sound|User can change Sound option|High|None|User can change sound (sound effect, background)|![image](/Document/Functional/image/sound%20pause.png) |
-|Commands(in Pause menu)|User|Click on Commands in Parameters|Press escape/click on Parameters -> Commands|User access to Commands option|High|None|User can change this commands, can also access to the view of controls on a plan|![image](/Document/Functional/image/controle%20pause.png) |
-|Graphics(in Pause menu)|User|Click on Graphics in Parameters|Press escape -> click on Parameters / click on Graphics|User access to Graphics setting|High|None|User can modify texture quality, Size of the screen, resolution, frame rate, shadow quality,view distance, post-processing, anti-aliasing|X|
+|Save|User|Click on Save in Pause menu|Press escape / Click on Save|User can save this progress|High|None|Can save any time, restart at the nearest save point|X|
+|Parameters(in Pause menu)|User|Click on Parameters in Pause menu|Press escape/ Click on Parameters|User access to Parameters option|High|None|Access to sound and commands option|X|
+|Sound(in Pause menu)|User|Click on Sound in Parameters(in Pause menu)|Press escape/Click on Parameters -> Sound|User can change Sound option|High|None|User can change sound (sound effect, background)|![image](/Document/Functional/image/sound%20pause.png) |
+|Commands(in Pause menu)|User|Click on Commands in Parameters|Press escape/Click on Parameters -> Commands|User access to Commands option|High|None|User can change this commands, can also access to the view of controls on a plan|![image](/Document/Functional/image/controle%20pause.png) |
+|Graphics(in Pause menu)|User|Click on Graphics in Parameters|Press escape -> Click on Parameters / Click on Graphics|User access to Graphics setting|High|None|User can modify texture quality, Size of the screen, resolution, frame rate, shadow quality,view distance, post-processing, anti-aliasing|X|
 |Quit(in Pause menu)|User|Click on Quit in Pause menu|Press Escape/ Click on Quit|User has access to Quit,Stay and Return to title screen|High|None|User can Quit the game, return to title screen  or stay in the game|X|
 |Money Overlay|User|On the HUD|None|Money Overlay is displayed on HUD|High|None|None|![image](/Document/Functional/image/money%20overlay.png) |
 |Semi-Circular Bars|User|On the HUD|None|Semi-Circular Bars display Heath Point and Stamina Point on separate bars|High|None|None|X|
