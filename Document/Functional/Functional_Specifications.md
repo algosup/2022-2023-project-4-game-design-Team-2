@@ -57,8 +57,7 @@ During a period of 7 weeks, we must done:
 |Slot|User|On the HUD|User select a weapon/ icon of selected weapon is bold |User see an icon in bold on which weapon is selected|Medium|None|Slot gain new icon depend of the progression|![image](/Document/Functional/image/slot.png) |
 |Run|User|Press Shift| Press up / Press shift| Character run| Medium|None|Run still active until run command is release |X|
 |Interact| User|Press E| None|User can interact with an element of the game|High|None|User point with the mouse which element it want to interact|X|
-|Hat attack|User|Left click|Press 3 or down scroll wheel/Left click|Character throw an hat at long range|Medium|None|Throw an hat, high 
-recovery time |X|
+|Hat attack|User|Left click|Press 3 or down scroll wheel/Left click|Character throw an hat at long range|Medium|None|Throw an hat, high recovery|X|
 |Second attack (kick)|User|Right click|None| Character perform a kick|Medium|None|Gap close move, knock back foes to a short range away of the character, high recovery time|X|
 |Pause menu|User| Press escape|None|User access to the Option menu|Medium|None|User can access to Save, Parameters and Quit option|![image](/Document/Functional/image/pause.png) |
 |Double jump|User|Press space twice|None|Character perform midair jump|High|None|Character can access a specific part of the level with it, perform only once until the character touch any solid surface|X|
@@ -71,6 +70,7 @@ recovery time |X|
 |Quit(in Pause menu)|User|Click on Quit in Pause menu|Press Escape/ Click on Quit|User has access to Quit,Stay and Return to title screen|High|None|User can Quit the game, return to title screen  or stay in the game|X|
 |Money Overlay|User|On the HUD|None|Money Overlay is displayed on HUD|High|None|None|![image](/Document/Functional/image/money%20overlay.png) |
 |Semi-Circular Bars|User|On the HUD|None|Semi-Circular Bars display Heath Point and Stamina Point on separate bars|High|None|None|X|
+
 
 
 
