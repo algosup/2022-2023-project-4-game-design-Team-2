@@ -16,11 +16,11 @@ The minimum age for playing the game is 7 years and older. The product will be m
 
 ## Competitor
 
-| **Name** | Catventure: The Return of Lost Business | Le chat Potté (2011) | The Legend of Zelda: Skyward Sword(2021) |
+| **Name** | Catley's Revenge | Le chat Potté (2011) | The Legend of Zelda: Skyward Sword(2021) |
 | :-: | :-: | :-: | :-: |
 | **Link** |  | not shared | https://www.zelda.com/skyward-sword-hd/ |
 | **Price** | free | 40€ (=42,60$) | 59,99$ |
-| **Target age** | 7+(PEGI[^1]) | 12+(PEGI) | 10+(ESRB[^2]), 12+(PEGI) |
+| **Target age** | 12+(PEGI[^1]) | 12+(PEGI) | 10+(ESRB[^2]), 12+(PEGI) |
 | **Platform** | PC | Wii, PS3, Nintendo DS, Xbox 360 | Wii, Nintendo Switch |
 | **Game mode** | Solo | Solo, Multi | Solo, Multi |
 | **Type** | Action-RPG, Adventure, Management, Puzzle | Action | Adventure, Fantaisic, Dungeon, Puzzle |

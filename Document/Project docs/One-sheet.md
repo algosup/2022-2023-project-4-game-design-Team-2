@@ -14,7 +14,7 @@ free
 
 ### Target group/age
 
-7+
+12+
 
 ### Type
 
@@ -31,7 +31,7 @@ It’s a little 3D open world in which the character can move freely and carry o
 ### Unique selling points
 
 open world
-new story of Catventure: The Return of Lost Business
+new story of Catley' Revenge
 interactive
 
 ### Similar competitive products
@@ -42,8 +42,5 @@ Le Chat Potté (2011), Zelda
 
 **Sword Attack** : High Damage
 **Claw Attack** : Only in feline mode, Low Damage, Fast Attack
-**Hat attack** : Medium Damage, Distant Attack
-**Boots** : Speed
 
 Is scary of water → take damages in water
-Have only 9 health points → lose 0.5 hit points per damage

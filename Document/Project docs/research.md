@@ -38,6 +38,9 @@ The documentation is saved on the Github repository of the group project. The do
 | https://unrealengine.com/marketplace/en-US/store | Find texture assets | sand, rock, water |
 | https://unrealengine.com/marketplace/en-US/assets?count=20&keywords=sound&priceRange=%5B0%2C0%5D&sortBy=relevancy&sortDir=DESC&start=0 | Find sound | ambiant sound |
 | https://universal-soundbank.com/ | Find sound | all sounds |
+| https://craftpix.net/freebies/free-medieval-3d-people-low-poly-models/?num=1&count=4&sq=peasant&pos=0 | find medieval NPC | peasant, king, queen |
+| https://www.youtube.com/watch?v=Yz0GgeoR1ig | how make NPC movement | random movement |
+|  |  |  |
 
 ### Salaheddine
 
@@ -63,9 +66,7 @@ The documentation is saved on the Github repository of the group project. The do
 | https://www.unrealengine.com/marketplace/en-US/product/fantastic-village-pack | Village |  |
 | https://www.youtube.com/watch?v=u1LsfWzvOFk | Tutorial to make mountain landscape |  |
 | https://youtube.com/playlist?list=PLQjN2LmROiTijroyMLpg-GVxDD0wjH7Em | Tutorial to know the landscape creation tools |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| https://sketchfab.com/3d-models/day5-the-final-tavern-35306e061fc547a0b17d9c44d2dc35c5 | inside tavern |  |
 |  |  |  |
 
 ### Florent
