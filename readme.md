@@ -87,20 +87,23 @@ Thanks to creation tools like Unreal Engine v4.27 and Gimp, we have to create a 
   - [x] functional V.2
   - [x] technical V.2
   - [x] update characters
-  - [x] update environment/universe
-  - [x] begin to implement sound
+  - [x] maze
+  - [x] new village
+  - [x] begin to implement ambiant sound
 - 4th week :
-  - [x] finish to implement sound
+  - [x] finish to implement ambiant sound
   - [x] implement ennemies
   - [x] test/verification characters, environment/universe, sound
 - 5th week :
   - [x] NPC village
-  - [ ] sound main character
-  - [ ] inside tavern
+  - [x] sound main character
+  - [x] new ennemies
+  - [x] sound ennemies
 - 6th week :
   - [ ] test plan
   - [ ] test case
   - [ ] bug report
+  - [ ] creation of the tavern (inside)
 - 7th week :
   - [ ] finish to test
   - [ ] finish to correct the bug/error
