@@ -84,20 +84,23 @@ Thanks to creation tools like Unreal Engine v4.27 and Gimp, we have to create a 
   - [x] begin to develop characters
   - [x] begin to develop the environment/universe
 - 3rd week :
-  - [ ] functional V.2
-  - [ ] technical V.2
-  - [ ] update characters
-  - [ ] update environment/universe
-  - [ ] begin to implement sound
+  - [x] functional V.2
+  - [x] technical V.2
+  - [x] update characters
+  - [x] update environment/universe
+  - [x] begin to implement sound
 - 4th week :
-  - [ ] finish to implement sound
-  - [ ] .
-  - [ ] test/verification characters, environment/universe, sound
+  - [x] finish to implement sound
+  - [x] implement ennemies
+  - [x] test/verification characters, environment/universe, sound
 - 5th week :
-  - [ ] test plan
-  - [ ] .
+  - [x] NPC village
+  - [ ] sound main character
+  - [ ] inside tavern
 - 6th week :
-  - [ ] .
+  - [ ] test plan
+  - [ ] test case
+  - [ ] bug report
 - 7th week :
   - [ ] finish to test
   - [ ] finish to correct the bug/error
