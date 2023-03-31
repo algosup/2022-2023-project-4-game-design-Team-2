@@ -2,7 +2,7 @@
 
 ## Document Version
 
-Last Update: 03/23/2023
+Last Update: 03/31/2023
 
 ## Team
 
@@ -121,11 +121,11 @@ For the creation of our game, we only used free assets.
 | Project period | Content | Delivery date | Done?|
 | :-: | :-: | :-: | :-: |
 |Week 1|[One Sheet Document](https://docs.google.com/document/d/1iRBUVD85ZWckOgvGBmtcu_85enL-P66Imu4cllDIVU4/edit)| 03/03/2023|Yes |
-|Week 2| Working Prototype|10/03/2023|Yes |
-|Week 3|[Meeting report 1](https://docs.google.com/document/d/1DWlmcnsNr--_mH-CPWppFA1Ne_A28M-4eIGVfSqpdTE/edit?usp=sharing)|17/03/2023|Yes|
-|Week 4|Demo / Vertical Slice|23/03/2023|Yes|
-|Week 5||||
-|Weak 6|Final Game / Final Test |07/04/2023||
+|Week 2| Working Prototype|03/10/2023|Yes |
+|Week 3|[Meeting report 1](https://docs.google.com/document/d/1DWlmcnsNr--_mH-CPWppFA1Ne_A28M-4eIGVfSqpdTE/edit?usp=sharing)|03/17/2023|Yes|
+|Week 4|Demo / Vertical Slice|03/23/2023|Yes|
+|Week 5|[Meeting report 2](https://docs.google.com/document/d/1sh9OoeIoXbAfgi7Bb1-Xkk8Zk1UiwYjILNkTZ3ZRQ8g/edit?usp=sharing)|31/03/2023|Yes|
+|Weak 6|Final Game / Final Test |04/07/2023||
 
 ## Safety
  All sites used for our research were secure and no user data is required to play. The only data saved and used is the game data to save/load the player's game.
