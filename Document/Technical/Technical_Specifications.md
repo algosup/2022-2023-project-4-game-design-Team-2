@@ -166,6 +166,7 @@ We have used theses websites to get assets for our project:
 - [Craftpix](https://craftpix.net/)
 - [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/store)
 - [Universal Soundbank](https://universal-soundbank.com/)
+- [cgtrader](https://www.cgtrader.com/)
 
 ## Environment
 For the environment we mainly use a free open source asset from the Unreal Engine Marketplace called "FANTASTIC - Village Pack" by Tidal Flask Studios. With this asset we created the world of Catley's Revenge.
@@ -193,11 +194,23 @@ For the player character we use a free open source asset from Sketchfab called "
 
 ### Ennemies
 
-For the ennemies we use the characters from Mixamo following you will find the different characters.
+For the ennemies we use the characters from Mixamo and cgtrader following you will find the different characters.
 
 1. The Knight<br>
     <br><img src="img/Knight.png" width="250"><br>
     [__Link to the Asset__](https://www.mixamo.com/#/?page=1&query=paladin&type=Character)
+
+2. The Assassin<br>
+   <br><img src="img/Assassin.png" width="250"><br>
+    [__Link to the Asset__](https://www.mixamo.com/#/?page=1&query=erika&type=Character)
+
+3. The Bandit<br>
+   <br><img src="img/Bandit.png" width="250"><br>
+    [__Link to the Asset__](https://www.cgtrader.com/free-3d-models/character/man/fantasy-bandit)
+
+4. The Brute<br>
+   <br><img src="img/Brute.png" width="250"><br>
+    [__Link to the Asset__](https://www.mixamo.com/#/?page=1&query=brute&type=Character)
 
 ### Villagers
 
@@ -208,11 +221,18 @@ For the villagers we have used a pack with 14 differents villager, this pack is 
 
 [__Link to the Asset__](https://craftpix.net/freebies/free-medieval-3d-people-low-poly-models/?num=1&count=4&sq=peasant&pos=0)
 
+### Antic Dealer
+<br><img src="img/AnticDealer.png" width="250"><br>
+[__Link to the Asset__](https://www.mixamo.com/#/?page=1&query=peasan&type=Character)
 
 ### Bosses
 1. Boss #1<br>
-    <br><img src="img/BOSS.png" width="250"><br>
-    [__Link to the Asset__](https://www.LINKTOTHEASSET.com/)
+    <br><img src="img/Boss1.png" width="250"><br>
+    [__Link to the Asset__](https://www.mixamo.com/#/?page=1&query=warrok&type=Character)
+
+2. Boss #2<br>
+    <br><img src="img/Boss2.png" width="250"><br>
+    [__Link to the Asset__](https://www.mixamo.com/#/?page=1&query=maw+j+laygo&type=Character)
 
 ### Animals
 For the animals we have also used a pack with 10 different animals, this pack is open-source and come from Craftpix:
