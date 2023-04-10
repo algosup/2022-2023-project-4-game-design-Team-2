@@ -2,7 +2,7 @@
 
 ### Name
 
-Catley's Revenge
+Caton's Revenge
 
 ### Platform
 
@@ -22,7 +22,7 @@ Action-RPG, Adventure, Management and Puzzle
 
 ### Game summary
 
-In a world of medieval times in which the little cat Catley became an alley cat after its glory days. He was stripped of his hat, his sword but also of an object that was dear to him. After a few months, he decides to take revenge on those who took everything from him. He will have to go through the village looking for clues to find the place where his enemies are hiding, but he will have to build his little empire to increase his strength by finding allies to join his clan.
+In a world of medieval times in which the little cat Caton became an alley cat after its glory days. He was stripped of his hat, his sword but also of an object that was dear to him. After a few months, he decides to take revenge on those who took everything from him. He will have to go through the village looking for clues to find the place where his enemies are hiding, but he will have to build his little empire to increase his strength by finding allies to join his clan.
 
 ### Game outline
 
@@ -31,7 +31,7 @@ It’s a little 3D open world in which the character can move freely and carry o
 ### Unique selling points
 
 open world
-new story of Catley' Revenge
+new story of Caton' Revenge
 interactive
 
 ### Similar competitive products

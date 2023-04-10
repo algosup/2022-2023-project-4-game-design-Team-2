@@ -2,9 +2,9 @@
 
 ## Market
 
-"Catley's Revenge" is a little 3D open world in which the character can move freely and carry out side quests to advance the main story. The character will have the opportunity to learn abilities for combat against different types of enemies such as archers, knights or even more fearsome bosses. The game is also interactive to allow the player to better customize the game for each player.
+"Caton's Revenge" is a little 3D open world in which the character can move freely and carry out side quests to advance the main story. The character will have the opportunity to learn abilities for combat against different types of enemies such as archers, knights or even more fearsome bosses. The game is also interactive to allow the player to better customize the game for each player.
 <img src="img/Catventure.png" alt="Catventure" width="150"/>
-In a world of medieval times in which the little cat Catley became an alley cat after its glory days. He was stripped of his hat, his sword but also of an object that was dear to him. After a few months, he decides to take revenge on those who took everything from him. He will have to go through the village looking for clues to find the place where his enemies are hiding, but he will have to build his little empire to increase his strength by finding allies to join his clan.
+In a world of medieval times in which the little cat Caton became an alley cat after its glory days. He was stripped of his hat, his sword but also of an object that was dear to him. After a few months, he decides to take revenge on those who took everything from him. He will have to go through the village looking for clues to find the place where his enemies are hiding, but he will have to build his little empire to increase his strength by finding allies to join his clan.
 
 ## Target audience/customer
 
@@ -16,7 +16,7 @@ The minimum age for playing the game is 7 years and older. The product will be m
 
 ## Competitor
 
-| **Name** | Catley's Revenge | Le chat Potté (2011) | The Legend of Zelda: Skyward Sword(2021) |
+| **Name** | Caton's Revenge | Le chat Potté (2011) | The Legend of Zelda: Skyward Sword(2021) |
 | :-: | :-: | :-: | :-: |
 | **Link** |  | not shared | https://www.zelda.com/skyward-sword-hd/ |
 | **Price** | free | 40€ (=42,60$) | 59,99$ |
