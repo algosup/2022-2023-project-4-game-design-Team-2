@@ -100,13 +100,13 @@ Thanks to creation tools like Unreal Engine v4.27 and Gimp, we have to create a 
   - [x] new ennemies
   - [x] sound ennemies
 - 6th week :
-  - [ ] test plan
-  - [ ] test case
-  - [ ] bug report
+  - [x] test plan
+  - [x] test case
+  - [x] bug report
   - [x] quests
   - [x] creation of the tavern (inside)
 - 7th week :
-  - [ ] teleportation
+  - [x] teleportation
   - [ ] finish to test
   - [ ] finish to correct the bug/error
   - [ ] prepare the presentation
