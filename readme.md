@@ -107,6 +107,6 @@ Thanks to creation tools like Unreal Engine v4.27 and Gimp, we have to create a 
   - [x] creation of the tavern (inside)
 - 7th week :
   - [x] teleportation
-  - [ ] finish to test
-  - [ ] finish to correct the bug/error
-  - [ ] prepare the presentation
+  - [x] finish to test
+  - [x] finish to correct the bug/error
+  - [x] prepare the presentation
