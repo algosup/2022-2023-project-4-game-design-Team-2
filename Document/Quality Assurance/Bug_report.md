@@ -1,3 +1,16 @@
 | Severity                                  	|    Bug description | Operating system  | Steps | Date raised | ID tester/Name | Actual state 
 |----------------------------------------------	|-----------------------------------------	|-------------------------------------	|-------------------------------------	|-------------------------------------	|-------------------------------------	|-------------------------------------	|
-| X | X | X | X |  X |  X |  X |       
+| <span style="color:red">High | Computer lags when we run the project | Windows | Launch the game on Unreal Engine |  10 mars 2023 |  Florent |  <span style="color:Green">Done |
+| <span style="color:green">Low | Health bar randomly stop working  | Windows/Mac | Launch the game and take damage from enemy |  22 mars 2023 |  Pierre |  <span style="color:green">Done |
+| <span style="color:green">Low | Animation stop working on some animals | Windows/Mac | Launch the game and go to the forest  |  10 avril 2023 |  Gregory |  <span style="color:red">Not fixed |
+| <span style="color:orange">Medium | Invisible wall in labyrinth stuck the player from moving forward | Windows/Mac | Launch the game and go the labyrinth |  15 mars 2023 |  Elise |  <span style="color:green">Done |
+| <span style="color:orange">Medium | Sound for knights not working properly | Windows/Mac | Lauch the game and we can heard the sound from the knight movement from very far away |  12 avril 2023 |  Salah |  <span style="color:green">Done |
+| <span style="color:green">Low | Player stuck on moving forward if he exit quickly the cutscene from the quest (unstuck yourself if you press forward again ) | Windows/Mac | Launch the game and take a quest. Click quickly in the dialogue box before the animation is finished |  11 avril 2023 |  Florent |  <span style="color:green">Done |
+| <span style="color:green">Low | PNJ can get stuck when colliding with each other | Windows/Mac | Launch the game and go the city |  5 avril 2023 |  Florent |  <span style="color:red">	Not fixed |
+| <span style="color:green">Low | Sound settings not working properly | Windows/Mac | Launch the game and press "P" to open he menu then choose sound and modify the volume |  13 avril 2023 |  Pierre |  <span style="color:green">Done |
+| <span style="color:red">High | Character animation not working as intended | Windows/Mac | Launch the game and press left click to draw the sword |  10 mars 2023 |  Florent |  <span style="color:green">Done |
+| <span style="color:orange">Medium | Sound for tavern can be hear across all the map | Windows/Mac | Launch the game and listen |  4 avril 2023 |  Gregory |  <span style="color:green">Done |
+| <span style="color:red">High | Player can get out of bound around the lac | Windows/Mac | Launch the game and go to the lac. Follow the border and try to jump multiple time at some point, you will get out of bound |  10 mars 2023 |  Elise |  <span style="color:green">Done |
+| <span style="color:green">Low | Player deal two time the damage on NPC with sword| Windows/Mac | Lauch the game, draw the sword and fight an enemy |  23 mars 2023 |  Florent |  <span style="color:green">Done |
+
+   

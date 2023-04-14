@@ -25,10 +25,7 @@ During the project, We will have two major session of testing :
 - One in the end of the fourth week
 
 During this session, we will gather feedback about the opinion people have in our game and what could be improve.
-Also, we will make sure that every feature that we implemented appear in the "Test_Case.md" document and have been fully tested.
-
-
-### Scope of the test : 
+Also, we will make sure that most important feature that we implemented appear in the "Test_Case.md" document and have been fully tested.
 
 ###  Bug Reports : 
 
