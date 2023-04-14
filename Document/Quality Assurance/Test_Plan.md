@@ -1,7 +1,7 @@
 # Test plan for project 4 : game design Team 2
 
 ### General information :
-| Status      | In progress  |
+| Status      | Done  |
 |--------------|-----------|
 | Created by  | Florent Hureaux |
 |   Customer     | ALGOSUP |
@@ -16,16 +16,23 @@ This Test Plan document supports the following objectives:
 
 - Identify all the feature that will need to be tested
 - Description of the testing strategies to be employed
-- List the test project deliverable elements.
 
 ### Test Procedure : 
+
+During the project, We will have two major session of testing :
+
+- One in the end of the second week
+- One in the end of the fourth week
+
+During this session, we will gather feedback about the opinion people have in our game and what could be improve.
+Also, we will make sure that every feature that we implemented appear in the "Test_Case.md" document and have been fully tested.
 
 
 ### Scope of the test : 
 
 ###  Bug Reports : 
 
-During the test phase, any bug that will be found will be added to the bug report "insert link".
+During the test phase, any bug that will be found will be added to the "Bug_report.md" document.
 Each bug report will contain this kind of information : 
 
 | Information                                  	| Description                                                                                	|
